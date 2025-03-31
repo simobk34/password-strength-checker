@@ -1,1 +1,1 @@
-# password-strength-checker
+# Check-The-Password
